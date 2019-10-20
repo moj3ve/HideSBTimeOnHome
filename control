@@ -1,0 +1,9 @@
+Package: com.4nni3.hidesbtimeonhome
+Name: HideSBTimeOnHome
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This hides statusbar time on homescreen
+Maintainer: 4nni3
+Author: 4nni3
+Section: Tweaks
